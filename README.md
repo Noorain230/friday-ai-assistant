@@ -1,35 +1,66 @@
 # friday-ai-assistant
 Friday Assistant is a JARVIS-inspired intelligent desktop system that integrates voice interaction with web services and system automation to enhance productivity and user experience. 
 <br>
-# Features 
-<br>
-###System Control
+# Features <br>
 
+### 🖥️ System Control
+- Open Notepad
+- Close Notepad
+- Open Command Prompt
+- Shutdown system
+- Restart system
+- Control system volume (up, down, mute)
 
-- 🔍 Google search and read results  
-- 📚 Wikipedia search and read summaries  
-- ⏰ Set alarms  
-- 🛒 Amazon product search  
-- 📸 Take screenshots  
-- 🔊 Volume control (up, down, mute)  
-- 📰 Get latest news updates  
-- 🎵 Music playback  
+### 🌐 Web & Application Control
+- Open YouTube
+- Open WhatsApp Web
+- Search on Google
+- Search on Wikipedia and read results
+- Search products on Amazon
+
+### 🎙️ Voice & Smart Assistance
+- Voice command recognition
+- Text-to-speech response
+- Tell current time
+- Set alarms
+- Tell jokes
+- Check temperature
+
+### 🎵 Media & Utilities
+- Play songs
+- Take screenshots
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies & Tools Used
 
-- Python  
-- Speech Recognition  
-- News API  
-- python-dotenv  
-- PyCharm  
+### 🔹 Core Language
+- Python
+
+### 🔹 GUI Framework
+- PyQt5
+
+### 🔹 Voice Processing
+- SpeechRecognition
+- pyttsx3
+
+### 🔹 Automation & System Control
+- os
+- datetime
+- webbrowser
+- pyautogui
+
+### 🔹 APIs & Utilities
+- wikipedia
+- pyjokes
+- News API
+- python-dotenv
 
 ---
 
 ## 🔐 Environment Variables
 
-This project uses a .env file to store API keys securely.
+This project uses a .env file to securely store API keys.
 
 Create a .env file in the root directory and add:
 
@@ -77,5 +108,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Developed by Nemat30
-
+Developed by Noorain
