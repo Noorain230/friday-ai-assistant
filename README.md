@@ -78,7 +78,7 @@ NEWS_API_KEY=your_api_key_here
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/friday-ai-assistant.git
+git clone https://github.com/Noorain230/friday-ai-assistant.git
 
 
 2. Navigate into the project folder:
