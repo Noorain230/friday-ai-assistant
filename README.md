@@ -4,11 +4,9 @@ Friday Assistant is a JARVIS-inspired intelligent desktop system that integrates
 # Features <br>
 
 ### 🖥️ System Control
-- Open Notepad
-- Close Notepad
+- Open/Close Notepad
 - Open Command Prompt
-- Shutdown system
-- Restart system
+- Shutdown/Restart system
 - Control system volume (up, down, mute)
 
 ### 🌐 Web & Application Control
@@ -25,6 +23,7 @@ Friday Assistant is a JARVIS-inspired intelligent desktop system that integrates
 - Set alarms
 - Tell jokes
 - Check temperature
+- Fetch latest news
 
 ### 🎵 Media & Utilities
 - Play songs
@@ -38,7 +37,7 @@ Friday Assistant is a JARVIS-inspired intelligent desktop system that integrates
 - Python
 
 ### 🔹 GUI Framework
-- PyQt5
+- PyQt5 
 
 ### 🔹 Voice Processing
 - SpeechRecognition
@@ -54,7 +53,9 @@ Friday Assistant is a JARVIS-inspired intelligent desktop system that integrates
 - wikipedia
 - pyjokes
 - News API
+- requests
 - python-dotenv
+- beautifulsoup4
 
 ---
 
@@ -77,7 +78,7 @@ NEWS_API_KEY=your_api_key_here
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/friday-assistant.git
+git clone https://github.com/your-username/friday-ai-assistant.git
 
 
 2. Navigate into the project folder:
